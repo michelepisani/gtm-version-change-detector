@@ -2,8 +2,8 @@ HOW TO USE
 
 1 - enter in the first column of a Google Sheet the list of IDs of the container to be processed, like this:
 
-Container ID__
-GTM-XXXXXXX__
+Container ID<br />
+GTM-XXXXXXX<br />
 GTM-YYYYYYY__
 GTM-WWWWWWW__
 GTM-ZZZZZZZ__
