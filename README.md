@@ -1,7 +1,7 @@
 1 - enter in the first column of a Google Sheet the list of IDs of the container to be processed, like this:
 
-Container ID
-GTM-XXXXXXX
+Container ID \n
+GTM-XXXXXXX \n
 GTM-YYYYYYY
 GTM-WWWWWWW
 GTM-ZZZZZZZ
